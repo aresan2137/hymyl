@@ -1,16 +1,58 @@
 body{
-    background-color: #969696;
+    background-color: #e8e8e8;
+}
+#uper {
+    background-color: #7c866a;
+    padding: 2px;
 }
 #Opcions {
     float: left;
     background-color: #83d823;
+    padding: 5px;
+    width: 500px;
+    height: 500px;
 }
 #Games {
     background-color: #a3a3a3;
     padding: 10px;
     float: left;
+    width: 1000px;
+    height: 500px;
 }
 #end{
     background-color: #161616;
     clear: both;
+}
+
+
+#extralogo {
+    font-size: 100px;
+    font-family: 'Yu Gothic';
+    color: #ededed;
+}
+
+#instal{
+    font-size: 50px;
+    color: #727272;
+}
+
+#scrachpl {
+    font-size: 25px;
+}
+#scrachgm {
+    font-size: 25px;
+}
+#newgame {
+    font-size: 25px;
+}
+
+#editgame {
+    font-size: 25px;
+}
+
+#endtext {
+    color: #ededed;
+}
+#endlinck {
+    color: #ededed;
 }

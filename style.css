@@ -1,0 +1,40 @@
+body {
+    background-color: #161616;
+    padding: 0px;
+}
+#uper {
+    background-color: #a0a0a0;
+    padding: 2px;
+}
+#contaner{
+    background-color: #83d823;
+}
+#Opcions {
+    float: left;
+    background-color: #2f2e2e;
+    padding: 5px;
+    width: 500px;
+    height: 500px;
+}
+
+#end{
+    background-color: #161616;
+    clear: both;
+}
+
+#Games{
+    font-size: 100px;
+}
+#Main {
+    font-size: 100px;
+}
+
+
+
+
+#endtext {
+    color: #ededed;
+}
+#endlinck {
+    color: #ededed;
+}
